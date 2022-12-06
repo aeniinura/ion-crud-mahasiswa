@@ -1,0 +1,7 @@
+{
+  "name": "ion-crud-nuraeni",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
